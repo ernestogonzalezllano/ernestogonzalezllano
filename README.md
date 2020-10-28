@@ -2,7 +2,7 @@
 
 Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encanta aprender cosas nuevas y poder usarlas para crecer!
 
-- 💻 Me **encanta** codear
+- 💻 Me **encanta** codear y jugar al futbol z⚽
 
 - 🌱 Actualmente aprendiendo React Native
 
@@ -34,6 +34,7 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
 
 ## Proyectos
 
+[<img align="center" alt="ernestogonzalezllano | proyecto" width="22px" src="https://media1.giphy.com/media/6f0lFqDbigThyTUX3O/giphy.gif" />][gardenry]
 
 
 ## Github stats
@@ -52,3 +53,4 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
 [website]: https://ernestogonzalezllano.vercel.app/
 [linkedin]: https://www.linkedin.com/in/ernesto-gonzalez-llano/
 [codewars]:https://www.codewars.com/users/ernestogonzalezllano
+[gardenry]: https://gardenry.shop/
