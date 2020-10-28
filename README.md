@@ -6,6 +6,8 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
 
 - 🌱 Actualmente aprendiendo React Native
 
+<br />
+
 ## Contáctame:
 
 [<img align="left" alt="ernesto gonzalez llano" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
