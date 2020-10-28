@@ -15,6 +15,7 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
 [<img align="left" alt="ernestogonzalezllano | codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/codewars.svg" />][codewars]
 
 <br />
+
 ## Techs
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
