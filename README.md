@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Soy Ernesto Gonzalez Llano, Full Stack Developer orientado a FrontEnd, me encanta aprender cosas nuevas y poder usarlas para crecer!
+Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encanta aprender cosas nuevas y poder usarlas para crecer!
 
 - 💻 Me **encanta** codear
 
@@ -12,6 +12,7 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado a FrontEnd, me encant
 [<img align="left" alt="ERNESTO GONZALEZ LLANO | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="ernestogonzalezllano | codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/codewars.svg" />][codewars]
 
+<br />
 ## Techs
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -20,13 +21,24 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado a FrontEnd, me encant
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 ![REACT](https://img.shields.io/badge/-REACT-000000?style=flat&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-000000?style=flat&logo=redux)
-![APOLLO](http://img.shields.io/badge/-APOLLO-000000?style=flat&logo=apollo-graphql) <br />
+![APOLLO](http://img.shields.io/badge/-APOLLO-000000?style=flat&logo=apollo-graphql) 
 ![EXPO](http://img.shields.io/badge/-EXPO-000000?style=flat&logo=Expo) <br />
-![EXPRESS](http://img.shields.io/badge/-EXPRESS.JS-000000?style=flat&logo=) <br />
-![SEQUELIZE](http://img.shields.io/badge/-SEQUELIZE-000000?style=flat&logo=) <br />
+![EXPRESS](http://img.shields.io/badge/-EXPRESS.JS-000000?style=flat&logo=) 
+![SEQUELIZE](http://img.shields.io/badge/-SEQUELIZE-000000?style=flat&logo=) 
 ![POSTGRESQL](https://img.shields.io/badge/-POSGRESQL-000000?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
+
+<br />
+## Proyectos
+
+
+
+## Github stats
+
+<img align="left" alt="github ernestogonzalezllano" src="https://github-readme-stats.vercel.app/api?username=ernestogonzalezllano&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestogonzalezllano)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
 
