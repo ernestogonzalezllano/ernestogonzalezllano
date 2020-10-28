@@ -2,7 +2,7 @@
 
 Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encanta aprender cosas nuevas y poder usarlas para crecer!
 
-- 💻 Me **encanta** codear y jugar al futbol z⚽
+- 💻 Me **encanta** codear y jugar al futbol ⚽
 
 - 🌱 Actualmente aprendiendo React Native
 
@@ -11,8 +11,6 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
 [<img align="left" alt="ernesto gonzalez llano" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ERNESTO GONZALEZ LLANO | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="ernestogonzalezllano | codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/codewars.svg" />][codewars]
-
-<br />
 
 ## Techs
 
@@ -30,12 +28,10 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
 
-<br />
-
 ## Proyectos
 
- # GardenRy - ecommerce
- - ecommerce donde participe principalmente en la implementacion de Redux, creacion de componentes React 
+ ### GardenRy - ecommerce
+ - E-commerce donde participé principalmente en la implementacion de Redux, creacion de componentes React 
  y la estilizacion de los mismos con Sass.
  - Usamos tambien Axios, Express, Sequelize, PostGreSQL, MercadoPago
  
