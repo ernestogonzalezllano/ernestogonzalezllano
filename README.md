@@ -34,7 +34,7 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
 
 ## Proyectos
 
-[<img align="center" alt="ernestogonzalezllano | proyecto" width="22px" src="https://media1.giphy.com/media/6f0lFqDbigThyTUX3O/giphy.gif" />][gardenry]
+[<img align="center" alt="ernestogonzalezllano | proyecto" src="https://media1.giphy.com/media/6f0lFqDbigThyTUX3O/giphy.gif" />][gardenry]
 
 
 ## Github stats
