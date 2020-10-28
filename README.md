@@ -34,6 +34,11 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
 
 ## Proyectos
 
+ # GardenRy - ecommerce
+ - ecommerce donde participe principalmente en la implementacion de Redux, creacion de componentes React 
+ y la estilizacion de los mismos con Sass.
+ - Usamos tambien Axios, Express, Sequelize, PostGreSQL, MercadoPago
+ 
 [<img align="center" alt="ernestogonzalezllano | proyecto" src="https://media1.giphy.com/media/6f0lFqDbigThyTUX3O/giphy.gif" />][gardenry]
 
 
