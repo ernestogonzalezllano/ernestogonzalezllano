@@ -31,6 +31,7 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
 ![POSTGRESQL](https://img.shields.io/badge/-POSGRESQL-000000?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
+<!-- 
 
 ## Proyectos
 
@@ -40,7 +41,7 @@ Soy Ernesto Gonzalez Llano, Full Stack Developer orientado al FrontEnd, me encan
  - Usamos tambien Axios, Express, Sequelize, PostGreSQL, MercadoPago
  
 [<img align="center" alt="ernestogonzalezllano | proyecto" src="https://media1.giphy.com/media/6f0lFqDbigThyTUX3O/giphy.gif" />][gardenry]
-
+ -->
 
 ## Github stats
 
